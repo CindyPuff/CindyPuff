@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @CindyPuff
-- 👀 I’m interested in travel, watching TV series.
-- 🌱 I’m currently learning Japanese, Java, HTML.
-- 💞️ I’m looking to collaborate on school project.
-- 📫 How to reach me 
-*email: judy900401@gmail.com
-*phone:0912-345678
+# Welcome to Cindy's profile
 
+- 👋 Hi, I’m @CindyPuff
+
+## Interestred in 👀
+* Travel
+* Watching TV series
+* VolleyBall
+
+## Language
+* Chinese
+* English
+* Japaness
+
+## Contact 📫
+-  emial:judy900401@gmail.com
+-  phone:0912-345678
